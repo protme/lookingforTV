@@ -39,9 +39,9 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    xiaomaomi: {
-        api: 'https://zy.xmm.hk/api.php/provide/vod',
-        name: '小猫咪资源',
+    maotai: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '茅台资源',
     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
@@ -90,9 +90,9 @@ const API_SITES = {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
         name: '最大资源'
     },
-    yinghua: {
-        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花资源'
+    jinying: {
+        api: 'https://jyzyapi.com/provide/vod',
+        name: '金鹰资源'
     },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
@@ -102,9 +102,9 @@ const API_SITES = {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
         name: '无尽资源'
     },
-    wwzy: {
-        api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '旺旺短剧'
+    hongniu: {
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
+        name: '红牛资源'
     },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
